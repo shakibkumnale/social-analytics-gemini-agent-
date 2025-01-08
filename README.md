@@ -1,9 +1,3 @@
-
-
-Here’s an enhanced, more attractive version of your guide for setting up and running the LangFlow chatbot with Astra DB:
-
----
-
 # 🚀 **Get Started with LangFlow Chatbot + Astra DB Integration**
 
 Follow these easy-to-follow steps to set up your LangFlow chatbot, seamlessly integrate Astra DB, and configure the necessary APIs. Let’s turn your idea into an AI-powered solution!
@@ -88,6 +82,4 @@ Having trouble or have questions? You can always reach out to me directly! 🚀
 
 🔔 **If you found this guide helpful, don't forget to like, share, and subscribe! Together, let's innovate and build cutting-edge AI solutions!**
 
----
 
-Let me know if you'd like more modifications! 😊
